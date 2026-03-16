@@ -1,0 +1,19 @@
+{
+  "name": "n8n-to-code",
+  "version": "1.0.0",
+  "description": "Convert n8n workflows into clean, structured code in any programming language",
+  "author": {
+    "name": "intellectco"
+  },
+  "repository": "https://github.com/miguelsoaresz/n8n-to-code",
+  "license": "MIT",
+  "keywords": [
+    "n8n",
+    "workflow",
+    "migration",
+    "code-generation",
+    "automation",
+    "converter"
+  ],
+  "skills": "./skills"
+}
